@@ -1,0 +1,14 @@
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\bin\Debug\net6.0\Ostermelo.Data.deps.json
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\bin\Debug\net6.0\Ostermelo.Data.runtimeconfig.json
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\bin\Debug\net6.0\Ostermelo.Data.dll
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\bin\Debug\net6.0\Ostermelo.Data.pdb
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\obj\Debug\net6.0\Ostermelo.Data.csproj.AssemblyReference.cache
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\obj\Debug\net6.0\Ostermelo.Data.GeneratedMSBuildEditorConfig.editorconfig
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\obj\Debug\net6.0\Ostermelo.Data.AssemblyInfoInputs.cache
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\obj\Debug\net6.0\Ostermelo.Data.AssemblyInfo.cs
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\obj\Debug\net6.0\Ostermelo.Data.csproj.CoreCompileInputs.cache
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\obj\Debug\net6.0\Ostermelo.Data.dll
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\obj\Debug\net6.0\refint\Ostermelo.Data.dll
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\obj\Debug\net6.0\Ostermelo.Data.pdb
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\obj\Debug\net6.0\Ostermelo.Data.genruntimeconfig.cache
+T:\Bognár Pál\14A WPF & Angular\2023-01-26 őstermelő\Ostermelo.Data\obj\Debug\net6.0\ref\Ostermelo.Data.dll
